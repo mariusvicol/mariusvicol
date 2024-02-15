@@ -4,17 +4,17 @@
 
 - 🎓 Pursuing studies at: [Babeș-Bolyai University](https://www.ubbcluj.ro/)
 
-- 🌱 I’m currently learning **courses to become a Software Engineer!**
-
 - 💻 Majoring in: [Computer Science](https://www.cs.ubbcluj.ro/)
 
 - 🌐 Located in: **Cluj Napoca, Romania**
 
+- 🌱 I’m currently learning **courses to become a Software Engineer!**
+
+- 🛡️ I am interested in becoming **CyberSecurity programmer.**
+
 - 💬 Ask me about **anything related to the Skills I have!**
 
 - 📫 How to reach me **mariusvicol2004@gmail.com**
-
-- 🛡️ I am interested in becoming **CyberSecurity programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
