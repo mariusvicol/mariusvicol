@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **courses to become a Software Engineer!**
 
-- 💻 Majoring in: [Computer Science](https://www.cs.ubbcluj.ro/)
+- 💻 Studies in: [Computer Science](https://www.cs.ubbcluj.ro/)
 
 - 🌐 Located in: **Cluj Napoca, Romania**
 
