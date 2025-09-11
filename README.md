@@ -1,20 +1,20 @@
 <h1 align="center">Greetings, I am Marius! 👋</h1>
 <h3 align="center">Welcome to my distinguished GitHub profile.</h3>
-<h4 align="center">As a diligent student at the Faculty of Mathematics and Computer Science, Babeș-Bolyai University in Cluj Napoca, Romania, I am earnestly pursuing knowledge and expertise in the realm of Computer Science.</h4>
+<h4 align="center">AI Software Engineer, student at the Faculty of Mathematics and Computer Science, Babeș-Bolyai University, Cluj-Napoca — passionate about Artificial Intelligence and Cybersecurity.</h4>
 
-- 🎓 Pursuing studies at: [Babeș-Bolyai University](https://www.ubbcluj.ro/)
+🎓 Studying at: Babeș-Bolyai University
 
-- 🌱 I’m currently learning **courses to become a Software Engineer!**
+💻 Field of study: Computer Science
 
-- 💻 Studies in: [Computer Science](https://www.cs.ubbcluj.ro/)
+🌱 Currently learning and building skills in Artificial Intelligence and Cybersecurity
 
-- 🌐 Located in: **Cluj Napoca, Romania**
+🌍 Located in: Cluj-Napoca, Romania
 
-- 💬 Ask me about **anything related to the Skills I have!**
+💬 Ask me about programming, AI, software engineering, and security
 
-- 📫 How to reach me **mariusvicol2004@gmail.com**
+📫 How to reach me: mariusvicol2004@gmail.com
 
-- 🛡️ I am interested in becoming **Software Engineer / CyberSecurity programmer.**
+🛡️ Career goal: becoming a Software Engineer / Cybersecurity Programmer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
