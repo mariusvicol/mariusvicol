@@ -1,6 +1,6 @@
 <h1 align="center">Greetings, I am Marius! 👋</h1>
 <h3 align="center">Welcome to my distinguished GitHub profile.</h3>
-<h4 align="center">AI Software Engineer, student at the Faculty of Mathematics and Computer Science, Babeș-Bolyai University, Cluj-Napoca — passionate about Artificial Intelligence and Cybersecurity.</h4>
+<h4 align="center">AI Software Engineer, student at the Faculty of Mathematics and Computer Science, Babeș-Bolyai University, Cluj-Napoca - passionate about Artificial Intelligence and Cybersecurity.</h4>
 
 🎓 Studying at: Babeș-Bolyai University
 
